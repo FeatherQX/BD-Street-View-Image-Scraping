@@ -1,1 +1,1 @@
-# BD-Street-View-Image-Crawling
+# BD-Street-View-Image-Scraping
